@@ -10,3 +10,7 @@ int main() {
 		n2=n2*10+x;
 		n=n/10;
 	}
+	printf("the reverse number is=%d*,n2);
+
+	return 0;
+}
