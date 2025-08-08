@@ -11,6 +11,6 @@ int main() {
 		n=n/20;
 	}
 	printf("the reverse number is=%d*,n2);
-
+        printf("thank you");
 	return 0;
 }
