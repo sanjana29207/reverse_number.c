@@ -6,9 +6,9 @@ int main() {
 	scanf ("%d", &n);
 	while (n>0)
 	{
-		x=n%10;
-		n2=n2*10+x;
-		n=n/10;
+		x=n%20;
+		n2=n2*20+x;
+		n=n/20;
 	}
 	printf("the reverse number is=%d*,n2);
 
